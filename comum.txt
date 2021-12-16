@@ -1,0 +1,3 @@
+//se a peça possuir mais de 100g pode cadastrar
+//dada a capacidade da caixa, caso a lista de peças seja superior a 10, informar com uma mensagem "nao tem capacidade suficiente"
+//caso a peça tenha um nome inferior a 3 caracteres, informar uma mensagem de erro./
